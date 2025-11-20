@@ -2,11 +2,9 @@
     <section class="bg-primary w-full">
         <div class="container flex justify-between mx-auto py-3">
             <div class="text-white text-[17px] font-semibold lg:block hidden">
-                We're always active all social media platform or live call any time
-                contact us!
+                We're always active all social media platform or live call any time contact us!
             </div>
-            <div
-                class="flex items-center lg:gap-10 gap-6 justify-start lg:w-auto w-full md:px-0 sm:px-7 px-4 transition-all">
+            <div class="flex items-center lg:gap-10 gap-6 justify-start lg:w-auto w-full md:px-0 sm:px-7 px-4 transition-all">
                 <!-- Facebook Icon -->
                 <a href="#" class="text-white w-5 h-5">
                     <svg

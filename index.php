@@ -1,7 +1,3 @@
-<?php
-error_reporting(E_ALL);
-ini_set('display_errors', 1);
-?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -45,7 +41,6 @@ ini_set('display_errors', 1);
 </head>
 
 <body>
-
     <?php
     include 'includes/sub-header.php';
     include 'includes/header.php';
@@ -60,7 +55,6 @@ ini_set('display_errors', 1);
     include 'includes/faqs.php';
     include 'includes/footer.php';
     ?>
-
 
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>

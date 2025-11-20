@@ -7,13 +7,11 @@
                     class="w-full block"
                     alt="" />
             </div>
-            <div
-                class="border-t border-t-inputBg w-full text-white py-5 text-base font-normal">
-                <div
-                    class="flex justify-between md:flex-row flex-col items-center gap-3">
+            <div class="border-t border-t-inputBg w-full text-white py-5 text-base font-normal">
+                <div class="flex justify-between md:flex-row flex-col items-center gap-3">
                     <span>© 2024 The Luxury Escape Manila</span>
                     <div class="flex items-center gap-4">
-                        Builty by:
+                        Built by:
                         <div class="max-w-44">
                             <img
                                 src="../assets/images/brogramers-agency-logo.png"

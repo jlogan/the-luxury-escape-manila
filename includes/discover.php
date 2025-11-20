@@ -1,16 +1,11 @@
     <!-- Discover Section -->
-    <section
-        id="amenities"
-        class="lg:py-24 py-12 bg-discover md:px-0 xs:px-7 px-4">
+    <section id="amenities" class="lg:py-24 py-12 bg-discover md:px-0 xs:px-7 px-4">
         <div class="container mx-auto">
-            <div
-                class="flex flex-col items-center justify-center text-center text-white">
-                <span
-                    class="text-gold text-base before:w-5 before:h-[1px] before:bg-gold before:block after:w-5 after:h-[1px] after:bg-gold after:block flex items-center gap-3 mb-3">
+            <div class="flex flex-col items-center justify-center text-center text-white">
+                <span class="text-gold text-base before:w-5 before:h-[1px] before:bg-gold before:block after:w-5 after:h-[1px] after:bg-gold after:block flex items-center gap-3 mb-3">
                     AMENITIES AND FACILITIES
                 </span>
-                <h3
-                    class="xl:text-5xl lg:text-4xl md:text-3xl text-2xl font-heading font-bold mb-4 m-0 text-white !leading-snug">
+                <h3 class="xl:text-5xl lg:text-4xl md:text-3xl text-2xl font-heading font-bold mb-4 m-0 text-white !leading-snug">
                     Discover Azure Urban Resort
                 </h3>
                 <p class="text-white mb-12 m-0 text-base">
@@ -21,17 +16,15 @@
                 </p>
             </div>
         </div>
-        <!-- swiper -->
+        <!-- Swiper -->
         <div class="swiper discoverSwiper">
             <div class="swiper-wrapper lg:pr-0 lg:mx-0">
-                <!-- slide -->
+                <!-- Slide -->
                 <div class="swiper-slide">
                     <div class="relative">
                         <img src="../assets/images/slider-1-min.jpg" alt="" />
-                        <div
-                            class="absolute left-0 right-0 bottom-7 flex flex-col items-center slide-text">
-                            <p
-                                class="font-heading font-bold text-2xl text-center text-white m-0 mb-3">
+                        <div class="absolute left-0 right-0 bottom-7 flex flex-col items-center slide-text">
+                            <p class="font-heading font-bold text-2xl text-center text-white m-0 mb-3">
                                 The Azure Beach
                             </p>
                             <svg
@@ -47,14 +40,12 @@
                         </div>
                     </div>
                 </div>
-                <!-- slide -->
+                <!-- Slide -->
                 <div class="swiper-slide">
                     <div class="relative">
                         <img src="../assets/images/slider-2-min.jpg" alt="" />
-                        <div
-                            class="absolute left-0 right-0 bottom-7 flex flex-col items-center slide-text">
-                            <p
-                                class="font-heading font-bold text-2xl text-center text-white m-0 mb-3">
+                        <div class="absolute left-0 right-0 bottom-7 flex flex-col items-center slide-text">
+                            <p class="font-heading font-bold text-2xl text-center text-white m-0 mb-3">
                                 The Azure Wave Pool
                             </p>
                             <svg

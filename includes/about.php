@@ -14,8 +14,7 @@
                     LUXURIOUS AND TIMELESS ELEGANCE</span>
                 <h3
                     class="xl:text-5xl lg:text-4xl md:text-3xl text-2xl font-heading font-bold mb-4 text-primary !leading-snug">
-                    Beachfront Living in the 
-                    Heart of the city
+                    Beachfront Living in the Heart of the city
                 </h3>
                 <p class="text-lg text-dark mb-6">
                     Located in Bicutan, Parañaque City, AZURE URBAN RESORT RESIDENCES

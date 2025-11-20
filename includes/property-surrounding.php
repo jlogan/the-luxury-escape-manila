@@ -1,16 +1,12 @@
     <!-- Explore Section -->
-    <section
-        id="locations"
-        class="text-white lg:py-28 md:py-16 py-12 bg-explore bg-cover bg-no-repeat md:px-0 xs:px-7 px-4">
+    <section id="locations" class="text-white lg:py-28 md:py-16 py-12 bg-explore bg-cover bg-no-repeat md:px-0 xs:px-7 px-4">
         <div class="container mx-auto text-center mb-8">
-            <div
-                class="flex lg:flex-row flex-col lg:justify-between lg:items-center">
+            <div class="flex lg:flex-row flex-col lg:justify-between lg:items-center">
                 <div>
-                    <span
-                        class="text-gold text-base before:w-5 before:h-[1px] before:bg-gold before:block flex items-center gap-3 mb-4">
-                        Property surroundings</span>
-                    <h3
-                        class="xl:text-5xl lg:text-4xl md:text-3xl text-2xl font-heading md:text-center text-left font-bold mb-4 text-white !leading-snug">
+                    <span class="text-gold text-base before:w-5 before:h-[1px] before:bg-gold before:block flex items-center gap-3 mb-4">
+                        Property surroundings
+                    </span>
+                    <h3 class="xl:text-5xl lg:text-4xl md:text-3xl text-2xl font-heading md:text-center text-left font-bold mb-4 text-white !leading-snug">
                         Explore things <br class="sm:hidden block" />
                         to do near Azure
                     </h3>
@@ -20,7 +16,6 @@
                     role="alert"
                     href="#">
                     <span class="font-semibold text-base">Show map</span>
-
                     <svg
                         class="w-[18px] shrink-0 fill-yellow-500 inline group-hover:scale-110 transition-all"
                         viewBox="0 0 18 19"
@@ -33,17 +28,15 @@
                 </a>
             </div>
         </div>
-        <!-- swiper -->
+        <!-- Swiper -->
         <div class="swiper exploreSwiper">
             <div class="swiper-wrapper lg:pr-0 lg:mx-0">
-                <!-- slide 1-->
+                <!-- Slide 1 -->
                 <div class="swiper-slide">
                     <div class="relative">
                         <img src="../assets/images/explore-slide-1.jpg" alt="" />
-                        <div
-                            class="absolute lg:left-5 left-3 right-4 lg:top-4 top-3 flex justify-start z-[111]">
-                            <button
-                                class="flex items-center justify-center gap-3 bg-[#05355D]/80 text-white leading-none lg:py-3 py-2 lg:px-5 px-3 rounded-full shadow-lg border mapBtn border-white hover:bg-[#05355D]/90 focus:outline-none">
+                        <div class="absolute lg:left-5 left-3 right-4 lg:top-4 top-3 flex justify-start z-[111]">
+                            <button class="flex items-center justify-center gap-3 bg-[#05355D]/80 text-white leading-none lg:py-3 py-2 lg:px-5 px-3 rounded-full shadow-lg border mapBtn border-white hover:bg-[#05355D]/90 focus:outline-none">
                                 <svg
                                     class="w-[16px] shrink-0 fill-yellow-500 inline mapBtn-hover:scale-110 transition-all m-0"
                                     viewBox="0 0 18 19"
@@ -392,12 +385,10 @@
         <div class="container mx-auto text-center mb-8">
             <hr class="my-12" />
         </div>
-        <div
-            class="container mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 items-start 2xl:gap-24 xl:gap-16 md:gap-12 gap-8">
-            <!-- col 1 -->
+        <div class="container mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 items-start 2xl:gap-24 xl:gap-16 md:gap-12 gap-8">
+            <!-- Column 1 -->
             <div>
-                <h4
-                    class="font-bold font-sans text-lg leading-tight flex justify-start items-center gap-4 mt-0 mb-7">
+                <h4 class="font-bold font-sans text-lg leading-tight flex justify-start items-center gap-4 mt-0 mb-7">
                     <svg
                         class="w-4 h-auto"
                         viewBox="0 0 13 20"
@@ -458,10 +449,9 @@
                     </li>
                 </ul>
             </div>
-            <!-- col 2 -->
+            <!-- Column 2 -->
             <div>
-                <h4
-                    class="font-bold font-sans text-lg leading-tight flex justify-start items-center gap-4 mt-0 mb-7">
+                <h4 class="font-bold font-sans text-lg leading-tight flex justify-start items-center gap-4 mt-0 mb-7">
                     <svg
                         class="w-4 h-auto"
                         viewBox="0 0 16 25"
@@ -539,10 +529,9 @@
                     </li>
                 </ul>
             </div>
-            <!-- col 3 -->
+            <!-- Column 3 -->
             <div>
-                <h4
-                    class="font-bold font-sans text-lg leading-tight flex justify-start items-center gap-4 mt-0 mb-7">
+                <h4 class="font-bold font-sans text-lg leading-tight flex justify-start items-center gap-4 mt-0 mb-7">
                     <svg
                         class="w-5 h-auto"
                         viewBox="0 0 20 21"
